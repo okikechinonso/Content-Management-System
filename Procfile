@@ -1,1 +1,1 @@
-web: bin/content-manangement-system
+web: bin/Content-Manangement-System
